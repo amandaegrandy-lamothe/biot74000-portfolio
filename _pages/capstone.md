@@ -17,8 +17,6 @@ The stacked bar chart I produced showed how the major bacterial phyla were distr
 
 [Phylum Diversity Across Soil Samples](/biot74000-portfolio/images/Phylum_Diversity_Across Soil_Samples.png)
 
-[Phylum Diversity Across Soil Samples](biot74000-portfolio/images/Phylum_Diversity_Across Soil_Samples.png)
-
 
 ## Why It Strengthened My Capstone
 
