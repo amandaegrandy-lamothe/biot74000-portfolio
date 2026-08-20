@@ -12,7 +12,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. BLAST sequence searches] | [e.g. Run and interpret nucleotide and protein searches independently] |
+| BLAST sequence searches | Run and interpret nucleotide and protein searches independently |
 | [Basic R data wrangling and visualization] | [I can import data, clean and summarize it, and create clear exploratory plots using R and ggplot2.] |
 | [GitHub for project management] | [I can create repositories, commit and push changes, organize project files, and publish content using GitHub Pages.] |
 
