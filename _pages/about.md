@@ -29,15 +29,11 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm Amanda Lamothe, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
+I’m a biotechnology student with growing interests in data‑driven biological research and the development of tools that support genomics and health innovation. I’m working toward a career that blends wet‑lab understanding with computational analysis to solve practical problems in healthcare and life sciences. Bioinformatics is central to that direction because it allows me to turn complex biological data into clear, actionable insights that support better scientific and clinical decision‑making.
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
