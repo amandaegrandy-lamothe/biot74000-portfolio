@@ -4,29 +4,6 @@ title: "Capstone Connection"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 4: CAPSTONE CONNECTION  (20 points)  |  Suggested length: 200–300 words
-  ============================================================================
-  A concise, professional summary of how you applied bioinformatics to your
-  capstone project. This draws from your Assignment 2 work — it is a
-  professional-context summary, NOT a repeat of the assignment.
-
-  INCLUDE:
-    - A 2–4 sentence description of your capstone project (assume a general
-      audience who is not in your program)
-    - The bioinformatics tool, dataset, or method you applied in Assignment 2,
-      and why it was relevant
-    - What you found or produced, described in plain language
-    - 1–2 sentences on how this bioinformatics component strengthened your capstone
-    - (Optional) embedded images or output figures — see the guide for how to
-      add an image
-
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
 
 ## My Capstone Project
 
@@ -38,7 +15,7 @@ I used R to analyze my soil‑microbe dataset and create a stacked bar chart sho
 
 The stacked bar chart I produced showed how the major bacterial phyla were distributed across each soil sample. Flooded agricultural soil contained the highest number of isolates, with a large portion belonging to Actinomycetota, while the Yukon soil had the fewest isolates and a different phylum balance. The non‑flooded and leaf‑litter soils showed intermediate diversity, each with their own mix of Bacillota, Pseudomonadota, and Actinomycetota. Overall, the analysis highlighted which bacterial groups were most common in each biome and revealed clear differences in microbial community structure across the soil environments.
 
-[Phylum Diversity Across Soil Samples] (images/Phylum_Diversity_Across Soil_Samples.png)
+[Phylum Diversity Across Soil Samples] (biot74000-portfolio/images/Phylum_Diversity_Across Soil_Samples.png)
 
 
 ## Why It Strengthened My Capstone
