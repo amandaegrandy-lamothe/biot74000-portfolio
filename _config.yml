@@ -35,21 +35,21 @@ url: "https://amandaegrandy-lamothe.github.io"
 baseurl: "/biot74000-portfolio"
 
 # Replace with: yourusername/biot74000-portfolio
-repository: "amandagrandy-lamoothe/biot74000-portfolio"
+repository: "amandaegrandy-lamothe/biot74000-portfolio"
 
 # -------------------------------------------------------------------
 #  YOUR PROFILE (appears in the sidebar on every page)
 # -------------------------------------------------------------------
 author:
-  name: "Your Name"
+  name: "Amanda Grandy"
   bio: "Bachelor of Applied Biotechnology (Honours) student."
   # To add a profile photo: upload a square image to the images/ folder,
   # then put its filename here (e.g. "profile.jpg"). Leave blank for no photo.
   avatar: ""
   # Optional links in your sidebar. Leave blank to hide. Add your own if you like.
-  email: ""
+  email: "agrandy3120@conestogac.on.ca"
   github: ""            # your GitHub username, e.g. "yourusername"
-  linkedin: ""          # your LinkedIn handle, e.g. "yourname"
+  linkedin: "www.linkedin.com/in/amandagrandy"          # your LinkedIn handle, e.g. "yourname"
 
 # ------------------------------------------------------------------------------
 #  ▲▲▲  END OF SECTION TO EDIT  ▲▲▲
