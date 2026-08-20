@@ -32,10 +32,10 @@ url: "https://amandaegrandy-lamothe.github.io"
 # This MUST match your repository name exactly, including the leading slash.
 # If you named your repository "biot74000-portfolio" as instructed, leave this as-is.
 # If you named it something else, change the part after the slash to match.
-baseurl: "/biot74000-portfolio-"
+baseurl: "/biot74000-portfolio"
 
 # Replace with: yourusername/biot74000-portfolio
-repository: "amandaegrandy-lamothe/biot74000-portfolio-"
+repository: "amandaegrandy-lamothe/biot74000-portfolio"
 
 # -------------------------------------------------------------------
 #  YOUR PROFILE (appears in the sidebar on every page)
