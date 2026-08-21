@@ -15,7 +15,7 @@ I used R to analyze my soil‑microbe dataset and create a stacked bar chart sho
 
 The stacked bar chart I produced showed how the major bacterial phyla were distributed across each soil sample. Flooded agricultural soil contained the highest number of isolates, with a large portion belonging to Actinomycetota, while the Yukon soil had the fewest isolates and a different phylum balance. The non‑flooded and leaf‑litter soils showed intermediate diversity, each with their own mix of Bacillota, Pseudomonadota, and Actinomycetota. Overall, the analysis highlighted which bacterial groups were most common in each biome and revealed clear differences in microbial community structure across the soil environments.
 
-![Description of the figure](/biot74000-portfolio/images/Phylum_Diversity_Across Soil_Samples.png)
+[Description of the figure](/biot74000-portfolio/images/Phylum_Diversity_Across Soil_Samples.png)
 ## Why It Strengthened My Capstone
 
 
